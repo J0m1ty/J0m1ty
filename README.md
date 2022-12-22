@@ -1,7 +1,7 @@
-Hi! I'm Jomity. I'm interested in backend and game development. My favorite things are Typescript, Node.js, C#, and all things coding! I used to make little aplications/games on Khan Academy or on my website.
-- http://jomity.net/
+Hi! I'm Jomity. I'm most interested in backend and game development. My favorite things are Typescript, Node.js, C#, and all things coding! I mostly do stuff for college now, but I used to make little games on Khan Academy or on my website.
 - https://www.khanacademy.org/profile/j0m1ty/projects
+- https://jomity.net/
 
-Now I'm not sure what I do ;) Mostly stuff for college.
+...Loading other interests... I also do some photography and rowing.
 
-You can reach me at jomity@hotmail.com :D
+You can reach me at jomity@hotmail.com. Challenge me at Beatsaber, I dare you!
