@@ -1,6 +1,6 @@
 Hi! I'm Jomity. I'm most interested in backend and game development. My favorite technologies are Typescript, Node.js, C#, and everything coding! I mostly do stuff for college now, but I used to make little games on Khan Academy or on my website.
+- https://jomity.net/
 - https://www.khanacademy.org/profile/j0m1ty/projects
-- https://status.jomity.net/
 
 ...Loading other interests... I also do photography and rowing.
 
