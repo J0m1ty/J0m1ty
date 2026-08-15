@@ -8,4 +8,4 @@ You can reach me at jomity@hotmail.com or jomity on Discord. Challenge me at Bea
 
 -----
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J0m1ty&layout=compact&hide=HLSL,ShaderLab,Nix&langs_count=6&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=J0m1ty&layout=compact&langs_count=8)](https://github-stats-extended.vercel.app/api/top-langs?username=J0m1ty&layout=compact&langs_count=8)
