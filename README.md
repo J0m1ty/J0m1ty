@@ -1,6 +1,6 @@
 ### Hi! I'm Jomity.
 
-I'm a CS and math student at RIT, and I co-founded [Insidyr](https://github.com/insidyr-technologies). I'm most interested in backend work on distributed systems, and my favorite technologies are TypeScript, Node.js, C#, and everything coding! Most of my latest projects on GitHub are private, but you can see how I learned to code here and on [Khan Academy](https://www.khanacademy.org/profile/j0m1ty/projects).
+I'm a CS and math student at RIT, and I co-founded [Insidyr](https://github.com/insidyr-technologies). I'm most interested in backend work on distributed systems, and my favorite technologies are TypeScript, Node.js, C#, and everything coding! I have a lot of projects listed on my [website](https://jomity.net) and on [Khan Academy](https://www.khanacademy.org/profile/j0m1ty/projects).
 
 ...Loading other interests...
 
