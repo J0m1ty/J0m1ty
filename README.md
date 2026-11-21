@@ -10,4 +10,4 @@ You can find me at jomity@hotmail.com or as [jomity](https://discord.com/users/5
 
 -----
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=J0m1ty&layout=compact&langs_count=8)](https://github-stats-extended.vercel.app/api/top-langs?username=J0m1ty&layout=compact&langs_count=8)
+[![Top Languages](./assets/top-langs.svg)](https://github.com/J0m1ty?tab=repositories)

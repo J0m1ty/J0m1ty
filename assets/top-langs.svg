@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="190" viewBox="0 0 300 190" role="img" aria-labelledby="title">
+  <title id="title">Most Used Languages</title>
+  <style>
+    .card { fill: #fffefe; stroke: #e4e2e2; }
+    .title { font: 600 18px 'Segoe UI', Ubuntu, sans-serif; fill: #2f80ed; }
+    .lang { font: 400 11px 'Segoe UI', Ubuntu, sans-serif; fill: #434d58; }
+    @media (prefers-color-scheme: dark) {
+      .card { fill: #0d1117; stroke: #30363d; }
+      .title { fill: #58a6ff; }
+      .lang { fill: #c9d1d9; }
+    }
+  </style>
+  <rect class="card" x="0.5" y="0.5" rx="4.5" width="299" height="189"/>
+  <text x="25" y="35" class="title">Most Used Languages</text>
+  <mask id="bar-mask"><rect x="25" y="55" width="250" height="8" rx="5" fill="white"/></mask>
+  <g mask="url(#bar-mask)"><g transform="translate(25, 55)"><rect x="0.00" y="0" width="115.89" height="8" fill="#3178c6"/><rect x="115.89" y="0" width="92.45" height="8" fill="#7355dd"/><rect x="208.34" y="0" width="17.48" height="8" fill="#222c37"/><rect x="225.82" y="0" width="9.01" height="8" fill="#3572A5"/><rect x="234.83" y="0" width="8.92" height="8" fill="#b07219"/><rect x="243.75" y="0" width="3.37" height="8" fill="#aace60"/><rect x="247.12" y="0" width="2.04" height="8" fill="#663399"/><rect x="249.16" y="0" width="0.84" height="8" fill="#f1e05a"/></g></g>
+  <g transform="translate(25, 80)">
+    <g transform="translate(0, 0)">
+      <circle cx="5" cy="6" r="5" fill="#3178c6"/>
+      <text x="15" y="10" class="lang">TypeScript 46.36%</text>
+    </g>
+    <g transform="translate(150, 0)">
+      <circle cx="5" cy="6" r="5" fill="#7355dd"/>
+      <text x="15" y="10" class="lang">C# 36.98%</text>
+    </g>
+    <g transform="translate(0, 25)">
+      <circle cx="5" cy="6" r="5" fill="#222c37"/>
+      <text x="15" y="10" class="lang">ShaderLab 6.99%</text>
+    </g>
+    <g transform="translate(150, 25)">
+      <circle cx="5" cy="6" r="5" fill="#3572A5"/>
+      <text x="15" y="10" class="lang">Python 3.60%</text>
+    </g>
+    <g transform="translate(0, 50)">
+      <circle cx="5" cy="6" r="5" fill="#b07219"/>
+      <text x="15" y="10" class="lang">Java 3.57%</text>
+    </g>
+    <g transform="translate(150, 50)">
+      <circle cx="5" cy="6" r="5" fill="#aace60"/>
+      <text x="15" y="10" class="lang">HLSL 1.35%</text>
+    </g>
+    <g transform="translate(0, 75)">
+      <circle cx="5" cy="6" r="5" fill="#663399"/>
+      <text x="15" y="10" class="lang">CSS 0.81%</text>
+    </g>
+    <g transform="translate(150, 75)">
+      <circle cx="5" cy="6" r="5" fill="#f1e05a"/>
+      <text x="15" y="10" class="lang">JavaScript 0.34%</text>
+    </g>
+  </g>
+</svg>
