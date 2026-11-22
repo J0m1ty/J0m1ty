@@ -13,7 +13,7 @@
   <rect class="card" x="0.5" y="0.5" rx="4.5" width="299" height="189"/>
   <text x="25" y="35" class="title">Most Used Languages</text>
   <mask id="bar-mask"><rect x="25" y="55" width="250" height="8" rx="5" fill="white"/></mask>
-  <g mask="url(#bar-mask)"><g transform="translate(25, 55)"><rect x="0.00" y="0" width="115.89" height="8" fill="#3178c6"/><rect x="115.89" y="0" width="92.45" height="8" fill="#7355dd"/><rect x="208.34" y="0" width="17.48" height="8" fill="#222c37"/><rect x="225.82" y="0" width="9.01" height="8" fill="#3572A5"/><rect x="234.83" y="0" width="8.92" height="8" fill="#b07219"/><rect x="243.75" y="0" width="3.37" height="8" fill="#aace60"/><rect x="247.12" y="0" width="2.04" height="8" fill="#663399"/><rect x="249.16" y="0" width="0.84" height="8" fill="#f1e05a"/></g></g>
+  <g mask="url(#bar-mask)"><g transform="translate(25, 55)"><rect x="0.00" y="0" width="115.91" height="8" fill="#3178c6"/><rect x="115.91" y="0" width="92.44" height="8" fill="#7355dd"/><rect x="208.35" y="0" width="17.48" height="8" fill="#222c37"/><rect x="225.83" y="0" width="9.01" height="8" fill="#3572A5"/><rect x="234.83" y="0" width="8.91" height="8" fill="#b07219"/><rect x="243.75" y="0" width="3.37" height="8" fill="#aace60"/><rect x="247.12" y="0" width="2.04" height="8" fill="#663399"/><rect x="249.16" y="0" width="0.84" height="8" fill="#f1e05a"/></g></g>
   <g transform="translate(25, 80)">
     <g transform="translate(0, 0)">
       <circle cx="5" cy="6" r="5" fill="#3178c6"/>
